@@ -8,26 +8,29 @@ The company wanted to have an idea about the business metrics and also wanted vi
 # Business Problem:
 The fashion industry moves quickly, and decisions need to be made in real time. The dashboard was built to give your team a single source of truth about sales, inventory, customer preferences, and returns. It helps identify what’s selling, what’s not, and where opportunities exist.
 
-#Limitations & Assumptions
-•	The dashboard reflects data as per current systems — any manual errors in entry will flow into visuals.
-•	Return reasons are only as detailed as captured in the system (e.g., size, quality).
-•	Live updates depend on syncing frequency (daily/hourly).
-#Data Used
-•	Sources: Point-of-sale systems, e-commerce platform, inventory management, marketing campaigns.
-•	Coverage: Daily/weekly/monthly sales, product categories (tops, dresses, jeans, etc.), customer demographics, regional performance.
-•	Key Metrics Captured:
-o	Sales by product, region, store, channel (online/offline)
-o	Return & cancellation rates
-#Dashboard Design
-1.	Sales Overview – total revenue, sales trend, top categories.
-2.	Customer Insights – demographics, repeat vs new buyers.
-3.	Inventory & Stock – sell-through rate, aging stock, out-of-stock alerts.
-4.	Returns & Cancellations – items with high return rates (e.g., sizing issues).
-5.	Marketing Performance – campaign ROI, seasonal sales spikes
-#Analysis:
-•	The company has performed incredibly well in the year 2023 with the YOY % increase in revenue equaling 104.14%. The overall revenue each customer generated is $257.11. Key metrics that has helped in generating this huge amount of sales should be noted and measures should be taken to use them in the subsequent years.
-•	Search engines drive most amount of Sales. Investment should be made to ensure high ranking on these platforms.
-•	Products returning back to the inventory after being sold is one of the biggest problem in the ecommerce industry. The products have a return rate of 9.94%. This needs to tackled as soon as possible.
+# Limitations & Assumptions:
+•	The dashboard reflects data as per current systems — any manual errors in entry will flow into visuals.<br>
+•	Return reasons are only as detailed as captured in the system (e.g., size, quality).<br>
+•	Live updates depend on syncing frequency (daily/hourly).<br>
 
-#Conclusion:
+# Data Used
+•	Sources: Point-of-sale systems, e-commerce platform, inventory management, marketing campaigns.<br>
+•	Coverage: Daily/weekly/monthly sales, product categories (tops, dresses, jeans, etc.), customer demographics, regional performance.<br>
+•	Key Metrics Captured:<br>
+o	Sales by product, region<br>, store, channel (online/offline)<br>
+o	Return & cancellation rates<br>
+
+# Dashboard Design
+1.	Sales Overview – total revenue, sales trend, top categories.<br>
+2.	Customer Insights – demographics, repeat vs new buyers.<br>
+3.	Inventory & Stock – sell-through rate, aging stock, out-of-stock alerts.<br>
+4.	Returns & Cancellations – items with high return rates (e.g., sizing issues).<br>
+5.	Marketing Performance – campaign ROI, seasonal sales spikes.<br>
+
+# Analysis:
+•	The company has performed incredibly well in the year 2023 with the YOY % increase in revenue equaling 104.14%. The overall revenue each customer generated is $257.11. Key metrics that has helped in generating this huge amount of sales should be noted and measures should be taken to use them in the subsequent years.<br>
+•	Search engines drive most amount of Sales. Investment should be made to ensure high ranking on these platforms.<br>
+•	Products returning back to the inventory after being sold is one of the biggest problem in the ecommerce industry. The products have a return rate of 9.94%. This needs to tackled as soon as possible.<br>
+
+# Conclusion:
 The dashboard is of utmost importance and can provide real time access to stakeholders about the operations of the company. It helps get a detailed insight about every aspect of the business, thus helping them make informed decision.
