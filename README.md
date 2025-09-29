@@ -17,8 +17,8 @@ The fashion industry moves quickly, and decisions need to be made in real time. 
 •	Sources: Point-of-sale systems, e-commerce platform, inventory management, marketing campaigns.<br>
 •	Coverage: Daily/weekly/monthly sales, product categories (tops, dresses, jeans, etc.), customer demographics, regional performance.<br>
 •	Key Metrics Captured:<br>
-o	Sales by product, region<br>, store, channel (online/offline)<br>
-o	Return & cancellation rates<br>
+&nbsp;&nbsp;Sales by product, region, store, channel (online/offline)<br>
+&nbsp;&nbsp;Return & cancellation rates<br>
 
 # Dashboard Design
 1.	Sales Overview – total revenue, sales trend, top categories.<br>
